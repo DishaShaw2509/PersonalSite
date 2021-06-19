@@ -1,0 +1,34 @@
+/***********Tag Selector************/
+body{
+  background-color: #faf3dd;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f7c5a8;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+    color:  #ff9a76;
+}
+h2{
+    color:  #ff9a76;
+}
+h3{
+    color:  #ff9a76;
+}
+/********************Class selector******************/
+.pizza{
+  background-color: #edcfa9;
+}
+.burger{
+  background-color: #99f3bd;
+}
+.size{
+  border-radius: 50%
+}
+/****************id selector**************/
+#heading {
+  color: blue;
+}
